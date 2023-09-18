@@ -1,0 +1,14 @@
+E:\FGA\Project\GenericsCollections\GenericsCollections\bin\Debug\net6.0\GenericsCollections.exe
+E:\FGA\Project\GenericsCollections\GenericsCollections\bin\Debug\net6.0\GenericsCollections.deps.json
+E:\FGA\Project\GenericsCollections\GenericsCollections\bin\Debug\net6.0\GenericsCollections.runtimeconfig.json
+E:\FGA\Project\GenericsCollections\GenericsCollections\bin\Debug\net6.0\GenericsCollections.dll
+E:\FGA\Project\GenericsCollections\GenericsCollections\bin\Debug\net6.0\GenericsCollections.pdb
+E:\FGA\Project\GenericsCollections\GenericsCollections\obj\Debug\net6.0\GenericsCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\FGA\Project\GenericsCollections\GenericsCollections\obj\Debug\net6.0\GenericsCollections.AssemblyInfoInputs.cache
+E:\FGA\Project\GenericsCollections\GenericsCollections\obj\Debug\net6.0\GenericsCollections.AssemblyInfo.cs
+E:\FGA\Project\GenericsCollections\GenericsCollections\obj\Debug\net6.0\GenericsCollections.csproj.CoreCompileInputs.cache
+E:\FGA\Project\GenericsCollections\GenericsCollections\obj\Debug\net6.0\GenericsCollections.dll
+E:\FGA\Project\GenericsCollections\GenericsCollections\obj\Debug\net6.0\refint\GenericsCollections.dll
+E:\FGA\Project\GenericsCollections\GenericsCollections\obj\Debug\net6.0\GenericsCollections.pdb
+E:\FGA\Project\GenericsCollections\GenericsCollections\obj\Debug\net6.0\GenericsCollections.genruntimeconfig.cache
+E:\FGA\Project\GenericsCollections\GenericsCollections\obj\Debug\net6.0\ref\GenericsCollections.dll

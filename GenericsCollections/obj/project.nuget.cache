@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ygp6tcHp6e3urtdXoPjyBU8t+FM8KNXZIiJ0r8BP3VGFK4SEWejPAf8Jwmii+pOhQUTMV9zXvCu4AK6RXmJwIQ==",
+  "success": true,
+  "projectFilePath": "E:\\FGA\\Project\\GenericsCollections\\GenericsCollections\\GenericsCollections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
